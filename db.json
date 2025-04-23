@@ -14,10 +14,21 @@
     {
       "id": "1f8e",
       "name": "Teste c69",
-      "budget": "1000",
+      "budget": "1000000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "service": []
+    },
+    {
+      "id": "43ee",
+      "name": "Nicolas 211",
+      "budget": "1000",
+      "category": {
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "service": []
